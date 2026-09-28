@@ -1,0 +1,11 @@
+### ANDREA BIANCHI
+Information Security Manager
+Email: andrea.bianchi@email.com
+Tel: +39 345 9876543
+Roma, Italia
+### PROFILO PROFESSIONALE
+Esperto di sicurezza informatica con 10 anni di esperienza. Certificato CEH e CISSP. Si occupa di protezione di infrastrutture, siti web e applicazioni aziendali.
+### COMPETENZE
+Penetration testing, vulnerability assessment, hardening di server, firewall, gestione incidenti, conformità GDPR e ISO 27001.
+### ESPERIENZE
+Responsabile sicurezza in una banca: audit periodici, messa in sicurezza di portali web e risposta ad attacchi.

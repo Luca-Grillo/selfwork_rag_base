@@ -1,0 +1,11 @@
+### LUCA FERRARI
+Senior Software Engineer - Web Applications
+Email: luca.ferrari@email.com
+Tel: +39 347 8565432
+Torino, Italia
+### PROFILO PROFESSIONALE
+Sviluppatore web con 8 anni di esperienza nella progettazione di applicazioni scalabili, sia backend che frontend.
+### COMPETENZE
+Python, PHP, Laravel, JavaScript, React, SQL, Docker, API REST, test automatizzati.
+### ESPERIENZE
+Sviluppo di piattaforme SaaS e migrazione di sistemi legacy verso architetture a microservizi.
